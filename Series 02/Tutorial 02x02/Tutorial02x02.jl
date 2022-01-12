@@ -125,13 +125,7 @@ save("supply-demand.svg", scene)
 
 # exit REPL
 
-
-
-
-
-
-
-
+##
 # start REPL
 
 # Mortgage Calculator Example
